@@ -1,14 +1,9 @@
-﻿Build started 11/10/2017 1:19:08 AM.
-     1>Project "D:\STUDIA!!\Programowanie równoległę\Programy\Perceptron\Perceptron\Perceptron.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         D:\Programy\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
-         Source.cpp
-     1>d:\studia!!\programowanie równoległę\programy\perceptron\perceptron\source.cpp(26): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
-       Link:
-         D:\Programy\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\STUDIA!!\Programowanie równoległę\Programy\Perceptron\Debug\Perceptron.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\STUDIA!!\Programowanie równoległę\Programy\Perceptron\Debug\Perceptron.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\STUDIA!!\Programowanie równoległę\Programy\Perceptron\Debug\Perceptron.lib" /MACHINE:X86 Debug\Source.obj
-         Perceptron.vcxproj -> D:\STUDIA!!\Programowanie równoległę\Programy\Perceptron\Debug\Perceptron.exe
-     1>Done Building Project "D:\STUDIA!!\Programowanie równoległę\Programy\Perceptron\Perceptron\Perceptron.vcxproj" (Build target(s)).
+﻿Build started 11/16/2017 11:51:01 PM.
+     1>Project "D:\Documents\GitHub\PSI_GCP04_zima_2017-2018_Maciej_Slabon\Perceptron\Perceptron\Perceptron.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         Perceptron.vcxproj -> D:\Documents\GitHub\PSI_GCP04_zima_2017-2018_Maciej_Slabon\Perceptron\Debug\Perceptron.exe
+     1>Done Building Project "D:\Documents\GitHub\PSI_GCP04_zima_2017-2018_Maciej_Slabon\Perceptron\Perceptron\Perceptron.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:02.12
+Time Elapsed 00:00:00.01
