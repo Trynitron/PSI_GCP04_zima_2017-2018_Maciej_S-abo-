@@ -9,16 +9,16 @@ int CalculateOutput(double w[], double x, double y);
 int main(){
 	const int n = 4;
 	int maxiteration = 400;
-	double learning_rate = 0.5;
+	double learning_rate = 0.01;
 
 
 	srand(time(NULL));
 	double x[n], y[n], w[3], localerror, globalerror;
 	int iteration = 0, out[n], output;
 
-	w[0] = ((double)rand() / (RAND_MAX));
-	w[1] = ((double)rand() / (RAND_MAX));
-	w[2] = ((double)rand() / (RAND_MAX));
+	w[0] = 0.1;//((double)rand() / (RAND_MAX));
+		w[1] = 0.9;//((double)rand() / (RAND_MAX));
+		w[2] = 0.03;//((double)rand() / (RAND_MAX));
 
 	cout << w[0] << " " << w[1] << " " << w[2] << endl;
 
